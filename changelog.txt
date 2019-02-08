@@ -1,0 +1,23 @@
+commit 11b815b69a0e8aff654d031b88f7c00b8d50622b
+Author: GUINAIS Romain <rguinais@iia-laval.fr>
+Date:   Fri Feb 8 10:43:19 2019 +0100
+
+    display copyright
+
+commit 03240b26485b8173ece6d029b7813915a237a270
+Author: GUINAIS Romain <rguinais@iia-laval.fr>
+Date:   Fri Feb 8 10:42:42 2019 +0100
+
+    Add file header
+
+commit 6c84be61b55e64c518170aa8e30716b904fb03ca
+Author: GUINAIS Romain <rguinais@iia-laval.fr>
+Date:   Fri Feb 8 10:41:49 2019 +0100
+
+    Add build time
+
+commit 7f9b227d93a3d3cb25874646453ecfa05d05d153
+Author: GUINAIS Romain <rguinais@iia-laval.fr>
+Date:   Fri Feb 8 10:41:04 2019 +0100
+
+    Initial commit
