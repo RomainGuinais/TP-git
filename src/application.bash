@@ -1,4 +1,4 @@
-### Application.bash - 2019 - GUINAIS ###
+### Application.bash - 2019 - GUINAIS BLANCHARD ###
 version = "2"
 build_hour = "11H00"
 
